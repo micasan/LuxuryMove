@@ -1,0 +1,5 @@
+C:\Users\Laboratorio\Desktop\Luxury Move\Luxury Move\bin\Debug\Luxury Move.exe
+C:\Users\Laboratorio\Desktop\Luxury Move\Luxury Move\bin\Debug\Luxury Move.pdb
+C:\Users\Laboratorio\Desktop\Luxury Move\Luxury Move\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Laboratorio\Desktop\Luxury Move\Luxury Move\obj\Debug\Luxury Move.exe
+C:\Users\Laboratorio\Desktop\Luxury Move\Luxury Move\obj\Debug\Luxury Move.pdb
